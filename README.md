@@ -15,36 +15,36 @@ Taught by **Sharon Zhou**, Co-Founder and CEO of Lamini, this course blends **th
 
 ## Course Content
 
-### 1. [Why Fine-Tune?]()
+### 1. [Why Fine-Tune?](https://github.com/michaWorku/Finetuning-LLMs/blob/main/L1_Why_finetuning.ipynb)
 - Understanding fine-tuning and how it differs from other techniques.
 - Benefits of fine-tuning: more data, consistency, reduced hallucinations, and customization.
 - Comparison: **Prompt Engineering vs. Fine-Tuning**.
 
-### 2. [Where Fine-Tuning Fits In]()
+### 2. [Where Fine-Tuning Fits In](https://github.com/michaWorku/Finetuning-LLMs/blob/main/L2_Where_finetuning_fits.ipynb)
 - Pretraining vs. fine-tuning.
 - Limitations of pre-trained models.
 - How fine-tuning enhances models.
 - Common tasks that benefit from fine-tuning.
 
-### 3. [Instruction Fine-Tuning]()
+### 3. [Instruction Fine-Tuning](https://github.com/michaWorku/Finetuning-LLMs/blob/main/L3_Instruction_tuning.ipynb)
 - What is instruction fine-tuning?
 - Datasets for instruction-following.
 - Generating instruction data.
 - Comparing instruction-tuned vs. non-instruction-tuned models.
 
-### 4. [Data Preparation]()
+### 4. [Data Preparation](https://github.com/michaWorku/Finetuning-LLMs/blob/main/L4_Data_preparation.ipynb)
 - Choosing the right dataset.
 - Tokenization techniques.
 - Preparing datasets for training.
 - Creating test/train splits.
 
-### 5. [Training Process]()
+### 5. [Training Process](https://github.com/michaWorku/Finetuning-LLMs/blob/main/L5_Training.ipynb)
 - Setting up the base model.
 - Configuring training parameters.
 - Training with Lamini.
 - Exploring small vs. large model performance.
 
-### 6. [Evaluation and Iteration]()
+### 6. [Evaluation and Iteration](https://github.com/michaWorku/Finetuning-LLMs/blob/main/L6_Evaluation.ipynb)
 - Challenges in evaluating generative models.
 - Common LLM benchmarks.
 - Conducting error analysis.
@@ -59,12 +59,12 @@ Taught by **Sharon Zhou**, Co-Founder and CEO of Lamini, this course blends **th
 ## Notebooks
 The course includes hands-on **Jupyter notebooks** for practical implementation:
 
-- [**L1_Why_finetuning.ipynb**]() – Understanding the need for fine-tuning.
-- [**L2_Where_finetuning_fits.ipynb**]() – Pretraining vs. fine-tuning.
-- [**L3_Instruction_tuning.ipynb**]() – Instruction fine-tuning methods.
-- [**L4_Data_preparation.ipynb**]() – Data selection and tokenization.
-- [**L5_Training.ipynb**]() – Model training steps.
-- [**L6_Evaluation.ipynb**]() – Evaluation techniques.
+- [**L1_Why_finetuning.ipynb**](https://github.com/michaWorku/Finetuning-LLMs/blob/main/L1_Why_finetuning.ipynb) – Understanding the need for fine-tuning.
+- [**L2_Where_finetuning_fits.ipynb**](https://github.com/michaWorku/Finetuning-LLMs/blob/main/L2_Where_finetuning_fits.ipynb) – Pretraining vs. fine-tuning.
+- [**L3_Instruction_tuning.ipynb**](https://github.com/michaWorku/Finetuning-LLMs/blob/main/L3_Instruction_tuning.ipynb) – Instruction fine-tuning methods.
+- [**L4_Data_preparation.ipynb**](https://github.com/michaWorku/Finetuning-LLMs/blob/main/L4_Data_preparation.ipynb) – Data selection and tokenization.
+- [**L5_Training.ipynb**](https://github.com/michaWorku/Finetuning-LLMs/blob/main/L5_Training.ipynb) – Model training steps.
+- [**L6_Evaluation.ipynb**](https://github.com/michaWorku/Finetuning-LLMs/blob/main/L6_Evaluation.ipynb) – Evaluation techniques.
 
 Additionally, processed datasets are provided:
 - **alpaca_processed.jsonl**
